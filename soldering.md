@@ -11,7 +11,7 @@ Solder resistors.
 
 | Ref  |       Value       |
 
-|------|-------|-----------|
+|------|-------------------|
 
 | R1   |  1.5 kΩ resistor  |
 | R2,3 |   68 Ω resistor   |
