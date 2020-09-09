@@ -28,8 +28,8 @@ There are 2 different capacitors
 
 | Ref  | Value | Lead pitch |
 |------|-------|------------|
-|  F1  | 4.7uF | 2.5mm      |
-| C4,5 | 0.1uF | 5mm        |
+| C2,3 | 100nf | 2.5mm      |
+| C4,5 | 22pF  | 5mm        |
 
 ### USB Type-C connector (USB4085-GF-A) (USB1)
 Be careful of soldering the small pins. 
