@@ -10,7 +10,9 @@ A Black line on diode is cathode. (square pad on pcb)
 Solder resistors.
 
 | Ref  |       Value       |
+
 |------|-------|-----------|
+
 | R1   |  1.5 kΩ resistor  |
 | R2,3 |   68 Ω resistor   |
 | R4,5 |  5.1 kΩ resistor  |
