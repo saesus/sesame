@@ -9,10 +9,13 @@ A Black line on diode is cathode. (square pad on pcb)
 ### Resistors (R1,2,3,4,5,6)
 Solder resistors.
 
-1	1.5 kΩ resistor
-2	68 Ω resistor
-1	10 kΩ resistor
-2	5.1 kΩ resistor
+| Ref  |       Value       |
+|------|-------|-----------|
+| R1   |  1.5 kΩ resistor  |
+| R2,3 |   68 Ω resistor   |
+| R4,5 |  5.1 kΩ resistor  |
+| R6   |  10 kΩ resistor   |
+
 
 ### Diodes 1N4148 (universal switching diode (DO-35 1N4148)) (D3-68)
 Diode is a `polarized` component and therefore take care of direction.
