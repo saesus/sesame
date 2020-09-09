@@ -39,7 +39,6 @@ Solder IC socket.
 IC socket is a `polarized` component, take care of direction.
 Check the notch on silk and IC Socket. 
 Notch on both should be facing to the right, when the board is right side up.
-![ic socket](../img/assembly/9.JPG)
 
 ### Electrolytic capacitor (4.7 uF electrolytic capacitor) and Resettable fuse (500 mA polyfuse) (F1)
 Electrolytic capacitor is a `polarized` component, take care of direction.
